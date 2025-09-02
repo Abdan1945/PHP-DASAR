@@ -10,6 +10,9 @@
           $umur = 16 ;
     ?>
     <h1>Selamat Datang Broww, <?php echo $nama; ?>!</h1>
-    <h1>Umur saya: <?php echo $umur?></h1> 
+    <h1>Umur saya: <?php echo $umur
+    
+    ?></h1> 
+    
 </body>
 </html>

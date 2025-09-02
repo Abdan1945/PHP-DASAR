@@ -9,11 +9,11 @@
    <?php echo "<center>";?>
     <h1>SOAL 1</h1></p>
 <?php
-// Meminta input dari pengguna
-echo "<center>";
-$nilai = 50; // Mengambil input dari keyboard
 
-// Menentukan hasil berdasarkan nilai
+echo "<center>";
+$nilai = 50; 
+
+
 if ($nilai >= 90) {
     echo "Lulus dengan predikat A";
 } elseif ($nilai >= 75) {
